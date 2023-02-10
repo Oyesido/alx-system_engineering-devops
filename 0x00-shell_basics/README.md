@@ -7,3 +7,4 @@ Display current directory contents.
 script that creates a directory named
 Move the file
 Delete the file
+Delete the directory
