@@ -6,3 +6,4 @@ Display current directory contents, including hidden files (starting with .). Us
 Display current directory contents.
 script that creates a directory named
 Move the file
+Delete the file
